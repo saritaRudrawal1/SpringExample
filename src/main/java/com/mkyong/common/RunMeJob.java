@@ -15,7 +15,7 @@ public class RunMeJob extends QuartzJobBean {
 			throws JobExecutionException {
 
 		  runMeTask.printMe();
-System.out.println("dsvvvvvvvvvvvvvvvvvv");
+System.out.println("dsvv");
 
 	}
 }
